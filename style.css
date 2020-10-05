@@ -130,7 +130,7 @@ footer {
     letter-spacing: 0.01rem;
     margin: 100px 0 0 0;
     border-top: 1px solid #7fa579;
-    background: #00798b url(img/bg-footer.png) top center repeat-x;
+    background: #00798b url(bg-footer.png) top center repeat-x;
     background-size: auto 250px;
     min-height: 300px;
 }
